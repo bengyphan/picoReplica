@@ -40,3 +40,59 @@ body {
 	text-decoration: none;
 	text-transform: uppercase;
 }
+/*middle section*/
+.middle {
+	text-align: center;
+	color: #d8d8d8;
+	padding-top: 70px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+}
+.middle h1 {
+	font-size: 48px;
+	padding-bottom: 20px;
+}
+.middle h1 span {
+	font-weight: bold;
+}
+.middle h2 {
+	line-height: 1.4;
+	font-size: 36px;
+}
+.middle h2 span {
+	color: #FF6760;
+}
+.middle button {
+	background-color: #FF6760;
+	color: #d8d8d8;
+	padding: 17px;
+	margin-top: 25px;
+	border: hidden;
+	border-radius: 10px;
+	text-transform: uppercase;
+	margin-bottom: 50px;
+}
+.boxes {
+	text-align: center;
+	font-family: Times New Roman;
+	display: inline-block;
+	background-color: #F6F6F6;
+	width: 100%;
+	padding-top: 20px;
+}
+.boxes div {
+	width: 33%;
+	float: left;
+	padding: 20px;
+	color: #616161;
+}
+.boxes i {
+	font-size: 56px;
+}
+.boxes h1 {
+	font-size: 20px;
+	font-weight: bold;
+}
+.boxes p {
+	font-size: 14px;
+}
